@@ -83,7 +83,10 @@ Este projeto demonstra como configurar uma instância EC2 na AWS, anexar um volu
    ls -l
    df -h
    mount
+   cat
    ```
+   ![Screenshot from 2025-01-10 21-58-19](https://github.com/user-attachments/assets/a98f78f2-dca4-4e89-bf60-e9817c6f4e4d)
+
 2. Desmonte o volume:
    ```bash
    sudo umount /mnt/ebs-volume
